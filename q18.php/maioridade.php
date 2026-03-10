@@ -7,9 +7,9 @@ foreach($lista_idades as $idade){
     $i = (float)$idade;
 
     if ($i <= 17){
-        echo "menor de idade/";
+        echo "menor de idade<br>";
     } else {
-        echo "maior de idade/";
+        echo "maior de idade<br>";
     }
 }
 

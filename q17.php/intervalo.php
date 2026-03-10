@@ -17,21 +17,5 @@
 
 
 
-    // $nota1 = (float)$lista_notas[0];
-    // $nota2 = (float)$lista_notas[1];
-    // $nota3 = (float)$lista_notas[2];
-    // $nota4 = (float)$lista_notas[3];
-    // $nota5 = (float)$lista_notas[4];
-    // $nota6 = (float)$lista_notas[6];
-    // $nota7 = (float)$lista_notas[7];
-    // $nota8 = (float)$lista_notas[8];
-    // $nota9 = (float)$lista_notas[9];
-    // $nota10 = (float)$lista_notas[10];
-    // $nota11 = (float)$lista_notas[11];
-    // $nota12 = (float)$lista_notas[12];
-    // $nota13 = (float)$lista_notas[13];
-    // $nota14 = (float)$lista_notas[14];
-
-
     
 ?>
